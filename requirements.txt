@@ -1,0 +1,9 @@
+einops==0.7.0
+transformers==4.37.2
+tqdm==4.66.1
+matplotlib==3.8.2
+typer==0.9.0
+requests==2.31.0
+flash-attn @ git+https://github.com/Dao-AILab/flash-attention.git@v2.3.6
+pyyaml==6.0.1
+accelerate==0.24.1
